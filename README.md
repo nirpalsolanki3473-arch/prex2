@@ -165,6 +165,10 @@ This project demonstrates a practical Excel analytics workflow, from sales data 
 
 It is suitable for a beginner-to-intermediate data analytics portfolio.
 
+## Dashboard Preview
+
+![Sales Insights Dashboard](sales-dashboard.png)
+
 ## 👨‍💻 Author
 
 **Nirpalsinh Solanki**
