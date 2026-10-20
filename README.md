@@ -167,7 +167,7 @@ It is suitable for a beginner-to-intermediate data analytics portfolio.
 
 ## Dashboard Preview
 
-![Sales Insights Dashboard](sales-dashboard.png)
+![Sales Insights Dashboard](Screenshot%202026-10-20%20143527.png)
 
 ## 👨‍💻 Author
 
